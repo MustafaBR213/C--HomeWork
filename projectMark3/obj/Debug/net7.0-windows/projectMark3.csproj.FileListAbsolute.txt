@@ -1,0 +1,17 @@
+C:\Users\M95\source\repos\projectMark3\projectMark3\bin\Debug\net7.0-windows\projectMark3.exe
+C:\Users\M95\source\repos\projectMark3\projectMark3\bin\Debug\net7.0-windows\projectMark3.deps.json
+C:\Users\M95\source\repos\projectMark3\projectMark3\bin\Debug\net7.0-windows\projectMark3.runtimeconfig.json
+C:\Users\M95\source\repos\projectMark3\projectMark3\bin\Debug\net7.0-windows\projectMark3.dll
+C:\Users\M95\source\repos\projectMark3\projectMark3\bin\Debug\net7.0-windows\projectMark3.pdb
+C:\Users\M95\source\repos\projectMark3\projectMark3\obj\Debug\net7.0-windows\projectMark3.csproj.AssemblyReference.cache
+C:\Users\M95\source\repos\projectMark3\projectMark3\obj\Debug\net7.0-windows\projectMark3.Form1.resources
+C:\Users\M95\source\repos\projectMark3\projectMark3\obj\Debug\net7.0-windows\projectMark3.csproj.GenerateResource.cache
+C:\Users\M95\source\repos\projectMark3\projectMark3\obj\Debug\net7.0-windows\projectMark3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\M95\source\repos\projectMark3\projectMark3\obj\Debug\net7.0-windows\projectMark3.AssemblyInfoInputs.cache
+C:\Users\M95\source\repos\projectMark3\projectMark3\obj\Debug\net7.0-windows\projectMark3.AssemblyInfo.cs
+C:\Users\M95\source\repos\projectMark3\projectMark3\obj\Debug\net7.0-windows\projectMark3.csproj.CoreCompileInputs.cache
+C:\Users\M95\source\repos\projectMark3\projectMark3\obj\Debug\net7.0-windows\projectMark3.dll
+C:\Users\M95\source\repos\projectMark3\projectMark3\obj\Debug\net7.0-windows\refint\projectMark3.dll
+C:\Users\M95\source\repos\projectMark3\projectMark3\obj\Debug\net7.0-windows\projectMark3.pdb
+C:\Users\M95\source\repos\projectMark3\projectMark3\obj\Debug\net7.0-windows\projectMark3.genruntimeconfig.cache
+C:\Users\M95\source\repos\projectMark3\projectMark3\obj\Debug\net7.0-windows\ref\projectMark3.dll
